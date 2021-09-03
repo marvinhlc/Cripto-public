@@ -1,0 +1,12 @@
+POST http://localhost:3005/solicitudes
+Content-Type: application/json
+
+{
+    "nombres":"MARVIN HUMBERTO",
+    "apellidos":"LINARES CARIDAD",
+    "telefono":"7986-2145",
+    "email":"marvinhlc@gmail.com",
+    "tipodocumento":"DUI",
+    "numerodocumento":"01252436-1",
+    "genero":"MASCULINO"
+}
